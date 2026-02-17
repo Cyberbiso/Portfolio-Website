@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-02-17T19:00:18.163Z",
+  "sourceFile": "content/cv/master.docx",
+  "profile": {
+    "name": "Thabiso Nathaniel Seleke",
+    "location": "Gaborone, Botswana",
+    "email": "mrthabiso.seleke@gmail.com",
+    "phone": "+267 72510263"
+  },
+  "sections": [
+    {
+      "title": "Summary",
+      "lines": [
+        "Detail-oriented Java and Angular Developer with experience in developing and optimizing web applications. Skilled in designing RESTful APIs, managing databases, and implementing efficient data structures. Recently expanded expertise to AI development, with a keen interest in LLMs and modern AI applications. Proven ability to collaborate effectively with cross-functional teams to deliver high-quality software solutions. Fluent in English, French, and Setswana, with strong communication and problem-solving skills."
+      ]
+    },
+    {
+      "title": "Education",
+      "lines": [
+        "Bachelor of Computer Information Systems",
+        "University of Botswana, Gaborone, Botswana",
+        "Graduated: 2023",
+        "International General Certificate of Secondary Education (IGCSE)",
+        "Maruapula School, Gaborone, Botswana",
+        "Completed: 2018"
+      ]
+    },
+    {
+      "title": "Certifications",
+      "lines": [
+        "AWS Cloud Foundations Certificate, 2023",
+        "B1 Level French Certification, June 2023",
+        "Udemy: Diving into the World of LLMs like ChatGPT, Midjourney, Stable Diffusion, and AI App Development , May 2024"
+      ]
+    },
+    {
+      "title": "Skills",
+      "lines": [
+        "Programming Languages: Java, AngularJS",
+        "Web Development: Dashboard creation, API development, full-stack features",
+        "Database Management: SQL queries, table design",
+        "AI Development: Familiar with LLMs and AI app development tools",
+        "Languages: English (Fluent), French (Fluent), Setswana (Fluent)",
+        "Other: Strong problem-solving and debugging skills, excellent communication and interpersonal skills, proficient in software development tools, strong organizational and time management skills"
+      ]
+    },
+    {
+      "title": "Experience",
+      "lines": [
+        "Java and Angular Developer",
+        "SAiS (Software Application & Information Solutions), Gaborone, Botswana",
+        "August 2023 - Present",
+        "Completed dashboard applications with RESTful API integration.",
+        "Developed full functional full-stack features for Botswana Life.",
+        "Designed and implemented RESTful APIs for data manipulation in web applications.",
+        "Implemented pagination to improve data accessibility and navigation.",
+        "Developed and optimized SQL queries and database structures for efficient data storage and retrieval.",
+        "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "Participated in code reviews, debugging, and staying updated with emerging technologies.",
+        "Personal Assistant",
+        "In Smart Financial Services, Johannesburg, South Africa",
+        "2023",
+        "Assisted Charity Raseroka with comprehensive administrative support, including managing calendars, appointments, and correspondence.",
+        "Coordinated travel arrangements and organized events, ensuring efficient time management.",
+        "Conducted research and prepared reports on various topics as required."
+      ]
+    },
+    {
+      "title": "References",
+      "lines": [
+        "Available upon request."
+      ]
+    }
+  ],
+  "rawText": "Thabiso Nathaniel Seleke \n\nGaborone, Botswana \n\n+267 72510263 | mrthabiso.seleke@gmail.com \n\n\n\nSummary \n\nDetail-oriented Java and Angular Developer with experience in developing and optimizing web applications. Skilled in designing RESTful APIs, managing databases, and implementing efficient data structures. Recently expanded expertise to AI development, with a keen interest in LLMs and modern AI applications. Proven ability to collaborate effectively with cross-functional teams to deliver high-quality software solutions. Fluent in English, French, and Setswana, with strong communication and problem-solving skills. \n\n\n\nEducation \n\nBachelor of Computer Information Systems \n\nUniversity of Botswana, Gaborone, Botswana \n\nGraduated: 2023 \n\nInternational General Certificate of Secondary Education (IGCSE) \n\nMaruapula School, Gaborone, Botswana \n\nCompleted: 2018 \n\n\n\nCertifications \n\nAWS Cloud Foundations Certificate, 2023 \n\nB1 Level French Certification, June 2023 \n\nUdemy: Diving into the World of LLMs like ChatGPT, Midjourney, Stable Diffusion, and AI App Development , May 2024\n\n\n\nSkills \n\n• Programming Languages: Java, AngularJS \n\nWeb Development: Dashboard creation, API development, full-stack features \n\nDatabase Management: SQL queries, table design \n\nAI Development: Familiar with LLMs and AI app development tools \n\nLanguages: English (Fluent), French (Fluent), Setswana (Fluent) \n\nOther: Strong problem-solving and debugging skills, excellent communication and interpersonal skills, proficient in software development tools, strong organizational and time management skills \n\n\n\nExperience Java and Angular Developer \n\nSAiS (Software Application & Information Solutions), Gaborone, Botswana \n\nAugust 2023 - Present \n\nCompleted dashboard applications with RESTful API integration. \n\nDeveloped full functional full-stack features for Botswana Life. \n\nDesigned and implemented RESTful APIs for data manipulation in web applications. \n\nImplemented pagination to improve data accessibility and navigation. \n\nDeveloped and optimized SQL queries and database structures for efficient data storage and retrieval. \n\nCollaborated with cross-functional teams to deliver high-quality software solutions. \n\nParticipated in code reviews, debugging, and staying updated with emerging technologies. \n\nPersonal Assistant \n\nIn Smart Financial Services, Johannesburg, South Africa \n\n2023 \n\nAssisted Charity Raseroka with comprehensive administrative support, including managing calendars, appointments, and correspondence. \n\nCoordinated travel arrangements and organized events, ensuring efficient time management. \n\nConducted research and prepared reports on various topics as required. \n\n\n\nReferences \n\nAvailable upon request."
+}

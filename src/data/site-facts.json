@@ -1,0 +1,25 @@
+{
+  "name": "Thabiso Nathaniel Seleke",
+  "role": "Java & Angular Developer",
+  "tagline": "I build reliable web applications and AI-assisted product features for businesses that need fast, maintainable delivery.",
+  "email": "mrthabiso.seleke@gmail.com",
+  "linkedinUrl": "https://linkedin.com/in/thabiso-seleke-922252204",
+  "location": "Gaborone, Botswana",
+  "services": [
+    "Java backend and REST API development",
+    "Angular frontend dashboards and internal tools",
+    "SQL database design and query optimization",
+    "AI assistant integration for business workflows"
+  ],
+  "audience": "Freelance clients and teams looking for full-stack execution and practical AI capabilities.",
+  "goals": [
+    "Turn portfolio visitors into qualified project conversations",
+    "Answer profile questions quickly through an AI assistant",
+    "Provide direct, low-friction contact options"
+  ],
+  "cta": {
+    "emailLabel": "Email Thabiso",
+    "linkedinLabel": "Connect on LinkedIn",
+    "cvLabel": "Download CV"
+  }
+}
