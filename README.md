@@ -45,7 +45,7 @@ npm run dev
 
 Canonical CV file:
 
-- `content/cv/master.docx`
+- `content/cv/master.docx` or `content/cv/master.pdf`
 
 Generate knowledge JSON and public download:
 
@@ -56,7 +56,7 @@ npm run cv:ingest
 Sync directly from Downloads and ingest:
 
 ```bash
-npm run cv:sync -- "/Users/thabisoseleke/Downloads/Thabiso Seleke CV 1.docx"
+npm run cv:sync -- "/Users/thabisoseleke/Downloads/THABISO NATHANIEL SELEKE.pdf"
 ```
 
 `npm run build` automatically triggers ingestion (`prebuild`).

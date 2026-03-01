@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-02-17T19:00:18.163Z",
-  "sourceFile": "content/cv/master.docx",
+  "generatedAt": "2026-03-01T00:18:20.983Z",
+  "sourceFile": "content/cv/master.pdf",
   "profile": {
-    "name": "Thabiso Nathaniel Seleke",
+    "name": "THABISO NATHANIEL SELEKE",
     "location": "Gaborone, Botswana",
     "email": "mrthabiso.seleke@gmail.com",
     "phone": "+267 72510263"
@@ -11,66 +11,111 @@
     {
       "title": "Summary",
       "lines": [
-        "Detail-oriented Java and Angular Developer with experience in developing and optimizing web applications. Skilled in designing RESTful APIs, managing databases, and implementing efficient data structures. Recently expanded expertise to AI development, with a keen interest in LLMs and modern AI applications. Proven ability to collaborate effectively with cross-functional teams to deliver high-quality software solutions. Fluent in English, French, and Setswana, with strong communication and problem-solving skills."
+        "Lead Java Web Application Developer with over two years of post-qualification",
+        "experience in enterprise web-based system development. Currently serving as Lead",
+        "Developer for the Sales Platform System at Botswana Life Insurance Limited.",
+        "Experienced in the design, development, implementation, documentation, and",
+        "maintenance of secure and scalable Java-based applications aligned with technical",
+        "design documentation and UML specifications. Strong background in SQL database",
+        "development, RESTful web services, MVC architectural development, and Software",
+        "Development Lifecycle (SDLC) processes.",
+        "Demonstrated ability to lead technical modules, support users, troubleshoot",
+        "integration issues, and ensure system reliability within regulated business",
+        "environments. Committed to high standards of service delivery, accountability, and",
+        "continuous improvement."
       ]
     },
     {
       "title": "Education",
       "lines": [
-        "Bachelor of Computer Information Systems",
         "University of Botswana, Gaborone, Botswana",
         "Graduated: 2023",
-        "International General Certificate of Secondary Education (IGCSE)",
+        "Bachelor of Computer Information Systems",
         "Maruapula School, Gaborone, Botswana",
-        "Completed: 2018"
+        "Completed: 2018",
+        "International General Certificate of Secondary Education (IGCSE)"
       ]
     },
     {
       "title": "Certifications",
       "lines": [
-        "AWS Cloud Foundations Certificate, 2023",
-        "B1 Level French Certification, June 2023",
-        "Udemy: Diving into the World of LLMs like ChatGPT, Midjourney, Stable Diffusion, and AI App Development , May 2024"
+        "AWS Cloud Foundations Certificate (2023)",
+        "LLMs & AI Application Development (2024)",
+        "B1 French Certification (2023)"
       ]
     },
     {
       "title": "Skills",
       "lines": [
-        "Programming Languages: Java, AngularJS",
-        "Web Development: Dashboard creation, API development, full-stack features",
-        "Database Management: SQL queries, table design",
-        "AI Development: Familiar with LLMs and AI app development tools",
-        "Languages: English (Fluent), French (Fluent), Setswana (Fluent)",
-        "Other: Strong problem-solving and debugging skills, excellent communication and interpersonal skills, proficient in software development tools, strong organizational and time management skills"
+        "Programming & Development",
+        "Java (Spring Boot)",
+        "Python",
+        "JavaScript",
+        "Angular / AngularJS",
+        "Next.js",
+        "HTML5 & CSS3",
+        "Architecture & Integration",
+        "MVC Architectural Development",
+        "RESTful Web Services",
+        "API Integration",
+        "Model Context Protocol (MCP)",
+        "Web-Based System Programming",
+        "Database & Systems",
+        "Oracle SQL Query Development",
+        "Database Design & Optimization",
+        "SDLC Methodologies",
+        "Version Control (Git)",
+        "Unit Testing & Technical Documentation",
+        "Troubleshooting firewall, proxy, and load balancer connectivity issues"
       ]
     },
     {
       "title": "Experience",
       "lines": [
-        "Java and Angular Developer",
-        "SAiS (Software Application & Information Solutions), Gaborone, Botswana",
-        "August 2023 - Present",
-        "Completed dashboard applications with RESTful API integration.",
-        "Developed full functional full-stack features for Botswana Life.",
-        "Designed and implemented RESTful APIs for data manipulation in web applications.",
-        "Implemented pagination to improve data accessibility and navigation.",
-        "Developed and optimized SQL queries and database structures for efficient data storage and retrieval.",
-        "Collaborated with cross-functional teams to deliver high-quality software solutions.",
-        "Participated in code reviews, debugging, and staying updated with emerging technologies.",
-        "Personal Assistant",
-        "In Smart Financial Services, Johannesburg, South Africa",
-        "2023",
-        "Assisted Charity Raseroka with comprehensive administrative support, including managing calendars, appointments, and correspondence.",
-        "Coordinated travel arrangements and organized events, ensuring efficient time management.",
-        "Conducted research and prepared reports on various topics as required."
+        "SAiS (Software Application & Information Solutions) – Gaborone, Botswana",
+        "August 2023 – Present",
+        "Lead Java Developer – Sales Platform System(Botswana Life",
+        "Project)(https://salesplatform.botswanalife.co.bw/sp/ls/newsp/login.html#/)",
+        "Lead fullstack development of the Sales Platform System for Botswana Life Insurance",
+        "Limited.",
+        "Designed and implemented RESTful APIs using Java (Spring Boot) and MVC",
+        "architecture.",
+        "Developed and optimized Oracle SQL queries supporting transactional and reporting",
+        "systems.",
+        "Interpreted UML diagrams and technical design documentation to implement",
+        "system features.",
+        "Participated in full Software Development Lifecycle (analysis, design, testing,",
+        "deployment, maintenance).",
+        "Conducted unit testing and prepared technical documentation.",
+        "Utilized Git and SVN for version control and collaborative development.",
+        "Provided technical support and knowledge transfer to users and team members",
+        "Personal Portfolio Website",
+        "2026",
+        "Designed and developed a professional portfolio showcasing technical projects and",
+        "skills.",
+        "Implemented modern frontend technologies and responsive design.",
+        "Lexi Platform (https://lexi.co.bw/)",
+        "2025",
+        "Contributed to backend API development and SQL database design.",
+        "Assisted in implementing authentication and core application logic.",
+        "Participated in testing, debugging, and deployment processes.",
+        "Supported feature enhancement and performance optimization.",
+        "More Property Website (https://www.moreproperty.co.bw/)",
+        "2025",
+        "Designed and developed a database-driven real estate web platform.",
+        "Implemented full-stack functionality and responsive UI.",
+        "Provided post-deployment support and maintenance.",
+        "Lead Developer – Botswana Life Sales Platform",
+        "2023 – Present",
+        "Acted as technical focal point for backend development tasks.",
+        "Guided junior developers on coding standards and best practices.",
+        "Participated in stakeholder review meetings and technical solution discussions."
       ]
     },
     {
       "title": "References",
-      "lines": [
-        "Available upon request."
-      ]
+      "lines": []
     }
   ],
-  "rawText": "Thabiso Nathaniel Seleke \n\nGaborone, Botswana \n\n+267 72510263 | mrthabiso.seleke@gmail.com \n\n\n\nSummary \n\nDetail-oriented Java and Angular Developer with experience in developing and optimizing web applications. Skilled in designing RESTful APIs, managing databases, and implementing efficient data structures. Recently expanded expertise to AI development, with a keen interest in LLMs and modern AI applications. Proven ability to collaborate effectively with cross-functional teams to deliver high-quality software solutions. Fluent in English, French, and Setswana, with strong communication and problem-solving skills. \n\n\n\nEducation \n\nBachelor of Computer Information Systems \n\nUniversity of Botswana, Gaborone, Botswana \n\nGraduated: 2023 \n\nInternational General Certificate of Secondary Education (IGCSE) \n\nMaruapula School, Gaborone, Botswana \n\nCompleted: 2018 \n\n\n\nCertifications \n\nAWS Cloud Foundations Certificate, 2023 \n\nB1 Level French Certification, June 2023 \n\nUdemy: Diving into the World of LLMs like ChatGPT, Midjourney, Stable Diffusion, and AI App Development , May 2024\n\n\n\nSkills \n\n• Programming Languages: Java, AngularJS \n\nWeb Development: Dashboard creation, API development, full-stack features \n\nDatabase Management: SQL queries, table design \n\nAI Development: Familiar with LLMs and AI app development tools \n\nLanguages: English (Fluent), French (Fluent), Setswana (Fluent) \n\nOther: Strong problem-solving and debugging skills, excellent communication and interpersonal skills, proficient in software development tools, strong organizational and time management skills \n\n\n\nExperience Java and Angular Developer \n\nSAiS (Software Application & Information Solutions), Gaborone, Botswana \n\nAugust 2023 - Present \n\nCompleted dashboard applications with RESTful API integration. \n\nDeveloped full functional full-stack features for Botswana Life. \n\nDesigned and implemented RESTful APIs for data manipulation in web applications. \n\nImplemented pagination to improve data accessibility and navigation. \n\nDeveloped and optimized SQL queries and database structures for efficient data storage and retrieval. \n\nCollaborated with cross-functional teams to deliver high-quality software solutions. \n\nParticipated in code reviews, debugging, and staying updated with emerging technologies. \n\nPersonal Assistant \n\nIn Smart Financial Services, Johannesburg, South Africa \n\n2023 \n\nAssisted Charity Raseroka with comprehensive administrative support, including managing calendars, appointments, and correspondence. \n\nCoordinated travel arrangements and organized events, ensuring efficient time management. \n\nConducted research and prepared reports on various topics as required. \n\n\n\nReferences \n\nAvailable upon request."
+  "rawText": "THABISO NATHANIEL SELEKE \nGaborone, Botswana \n +267 72510263 \n mrthabiso.seleke@gmail.com \n GitHub: https://github.com/Cyberbiso \n Portfolio: Portfolio Website \nPROFESSIONAL PROFILE \nLead Java Web Application Developer with over two years of post-qualification \nexperience in enterprise web-based system development. Currently serving as Lead \nDeveloper for the Sales Platform System at Botswana Life Insurance Limited. \nExperienced in the design, development, implementation, documentation, and \nmaintenance of secure and scalable Java-based applications aligned with technical \ndesign documentation and UML specifications. Strong background in SQL database \ndevelopment, RESTful web services, MVC architectural development, and Software \nDevelopment Lifecycle (SDLC) processes. \nDemonstrated ability to lead technical modules, support users, troubleshoot \nintegration issues, and ensure system reliability within regulated business \nenvironments. Committed to high standards of service delivery, accountability, and \ncontinuous improvement. \n \nPROFESSIONAL EXPERIENCE \nSAiS (Software Application & Information Solutions) – Gaborone, Botswana \n August 2023 – Present \n Lead Java Developer – Sales Platform System(Botswana Life \nProject)(https://salesplatform.botswanalife.co.bw/sp/ls/newsp/login.html#/)  \n• Lead fullstack development of the Sales Platform System for Botswana Life Insurance \nLimited. \n• Designed and implemented RESTful APIs using Java (Spring Boot) and MVC \narchitecture. \n• Developed and optimized Oracle SQL queries supporting transactional and reporting \nsystems. \n\n   \n \n   \n \n• Interpreted UML diagrams and technical design documentation to implement \nsystem features. \n• Participated in full Software Development Lifecycle (analysis, design, testing, \ndeployment, maintenance). \n• Conducted unit testing and prepared technical documentation. \n• Utilized Git and SVN for version control and collaborative development. \n• Provided technical support and knowledge transfer to users and team members \nPROJECTS \nPersonal Portfolio Website \n 2026 \n• Designed and developed a professional portfolio showcasing technical projects and \nskills. \n• Implemented modern frontend technologies and responsive design. \nLexi Platform (https://lexi.co.bw/)  \n 2025 \n• Contributed to backend API development and SQL database design. \n• Assisted in implementing authentication and core application logic. \n• Participated in testing, debugging, and deployment processes. \n• Supported feature enhancement and performance optimization. \nMore Property Website (https://www.moreproperty.co.bw/) \n 2025 \n• Designed and developed a database-driven real estate web platform. \n• Implemented full-stack functionality and responsive UI. \n• Provided post-deployment support and maintenance. \nLEADERSHIP EXPERIENCE \nLead Developer – Botswana Life Sales Platform \n 2023 – Present \n• Acted as technical focal point for backend development tasks. \n• Guided junior developers on coding standards and best practices. \n• Participated in stakeholder review meetings and technical solution discussions. \n\n   \n \n   \n \nEDUCATION \nUniversity of Botswana, Gaborone, Botswana \n Graduated: 2023 \n Bachelor of Computer Information Systems \nMaruapula School, Gaborone, Botswana \n Completed: 2018 \n International General Certificate of Secondary Education (IGCSE) \nCERTIFICATIONS \n• AWS Cloud Foundations Certificate (2023) \n• LLMs & AI Application Development (2024) \n• B1 French Certification (2023) \n \nSKILLS \nProgramming & Development \n• Java (Spring Boot) \n• Python \n• JavaScript \n• Angular / AngularJS \n• Next.js \n• HTML5 & CSS3 \nArchitecture & Integration \n• MVC Architectural Development \n• RESTful Web Services \n• API Integration \n• Model Context Protocol (MCP) \n• Web-Based System Programming \n\n   \n \n   \n \nDatabase & Systems \n• Oracle SQL Query Development \n• Database Design & Optimization \n• SDLC Methodologies \n• Version Control (Git) \n• Unit Testing & Technical Documentation \n• Troubleshooting firewall, proxy, and load balancer connectivity issues"
 }

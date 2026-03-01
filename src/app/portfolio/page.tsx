@@ -13,7 +13,7 @@ export default function PortfolioPage() {
           </p>
           <h1 className="mt-4 text-4xl md:text-5xl">Project Work</h1>
           <p className="mt-4 max-w-2xl text-base leading-relaxed text-white/85 md:text-lg">
-            A selection of builds from the Cyberbiso GitHub portfolio spanning Java systems, React apps, and creative
+            A selection of builds from Cyberbiso spanning Java systems, React apps, AI web experiences, and creative
             interactive work.
           </p>
         </section>
@@ -53,7 +53,7 @@ export default function PortfolioPage() {
                     rel="noreferrer"
                     className="mt-5 inline-flex rounded-full border border-ink/20 bg-white px-4 py-2 text-xs font-semibold text-ink transition hover:-translate-y-0.5 hover:border-ink/45"
                   >
-                    View Repository
+                    {project.ctaLabel ?? "View Project"}
                   </a>
                 </div>
               </article>

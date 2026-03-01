@@ -3,10 +3,22 @@ import { ParallaxCard } from "@/components/parallax-card";
 import { RevealBlock } from "@/components/reveal-block";
 import { getSectionLines, siteFacts } from "@/lib/profile-data";
 
+const ABOUT_CARD_TEXT =
+  "Detail-oriented Java and Angular Developer with experience in developing and optimizing web applications. Skilled in designing RESTful APIs, managing databases, and implementing efficient data structures. Recently expanded expertise to AI development, with a keen interest in LLMs and modern AI applications. Proven ability to collaborate effectively with cross-functional teams to deliver high-quality software solutions. Fluent in English, French, and Setswana, with strong communication and problem-solving skills.";
+
+const EXPERIENCE_HIGHLIGHTS = [
+  "Java and Angular Developer",
+  "SAiS (Software Application & Information Solutions), Gaborone, Botswana",
+  "August 2023 - Present",
+  "Completed dashboard applications with RESTful API integration.",
+  "Developed full functional full-stack features for Botswana Life.",
+  "Designed and implemented RESTful APIs for data manipulation in web applications.",
+  "Implemented pagination to improve data accessibility and navigation.",
+  "Developed and optimized SQL queries and database structures for efficient data storage and retrieval."
+] as const;
+
 export default function AboutPage() {
-  const summary = getSectionLines("Summary");
   const skills = getSectionLines("Skills");
-  const experience = getSectionLines("Experience").slice(0, 8);
   const education = getSectionLines("Education");
   const certifications = getSectionLines("Certifications");
 
@@ -20,7 +32,7 @@ export default function AboutPage() {
             </p>
             <h1 className="mt-4 text-4xl leading-tight md:text-5xl">{siteFacts.name}</h1>
             <p className="mt-4 text-base leading-relaxed text-white/85 md:text-lg">
-              {summary[0] ?? "Detail-oriented Java and Angular developer with growing AI product capability."}
+              {ABOUT_CARD_TEXT}
             </p>
             <div className="mt-6 grid gap-3 sm:grid-cols-2">
               <article className="rounded-2xl border border-white/20 bg-white/5 px-4 py-3">
@@ -60,7 +72,7 @@ export default function AboutPage() {
           <article className="section-card rounded-3xl p-7 shadow-panel">
             <h2 className="text-2xl text-ink">Experience Highlights</h2>
             <ul className="mt-4 space-y-3 text-sm leading-relaxed text-slate">
-              {experience.map((item) => (
+              {EXPERIENCE_HIGHLIGHTS.map((item) => (
                 <li key={item} className="rounded-xl border border-ink/10 bg-white/70 px-3 py-2">
                   {item}
                 </li>

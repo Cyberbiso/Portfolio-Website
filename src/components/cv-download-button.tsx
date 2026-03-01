@@ -4,12 +4,13 @@ import { trackEvent } from "@/lib/analytics";
 
 interface CvDownloadButtonProps {
   label: string;
+  href: string;
 }
 
-export function CvDownloadButton({ label }: CvDownloadButtonProps) {
+export function CvDownloadButton({ label, href }: CvDownloadButtonProps) {
   return (
     <a
-      href="/cv/thabiso-seleke-cv.docx"
+      href={href}
       download
       onClick={() => {
         void trackEvent("cv_download_click", { source: "landing" });

@@ -5,7 +5,7 @@ import { CtaStrip } from "@/components/cta-strip";
 import { CvDownloadButton } from "@/components/cv-download-button";
 import { ParallaxCard } from "@/components/parallax-card";
 import { RevealBlock } from "@/components/reveal-block";
-import { siteFacts } from "@/lib/profile-data";
+import { cvDownloadHref, siteFacts } from "@/lib/profile-data";
 
 const featureCards = [
   {
@@ -56,7 +56,7 @@ export default function HomePage() {
               </p>
 
               <div className="mt-7 flex flex-wrap gap-3">
-                <CvDownloadButton label={siteFacts.cta.cvLabel} />
+                <CvDownloadButton label={siteFacts.cta.cvLabel} href={cvDownloadHref} />
                 <Link
                   href="/agent"
                   className="inline-flex items-center justify-center rounded-full border border-white/35 bg-white/10 px-6 py-3 text-sm font-semibold text-white transition hover:-translate-y-0.5 hover:bg-white/15"
